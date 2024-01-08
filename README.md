@@ -1,6 +1,6 @@
 ![6658537-ezgif com-crop](https://github.com/muhammedp07/muhammedp07/assets/52874173/14e33f7c-bcfa-42af-a5d5-c6c91c0bbd3c)
 
-<h1 align="center">Hi 👋, I'm Muhammed aka Mo</h1>
+<h1 align="center">Hello World! <img align="center-center" height="50" width="50" src="https://github.com/muhammedp07/muhammedp07/assets/52874173/53ca7879-5b84-41a2-beb0-f1d73129bd02"> <br> I am Muhammed, AKA Mo </h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
 
