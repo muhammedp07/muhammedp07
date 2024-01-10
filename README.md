@@ -38,4 +38,4 @@
 <p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/P47N.png" alt="TryHackMe"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedp07&show_icons=true&locale=en" alt="muhammedp07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedp07&" alt="muhammedp07" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedp07" alt="muhammedp07" /></p>
