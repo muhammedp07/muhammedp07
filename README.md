@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: :information_desk_person: [knock-knock](https://www.linkedin.com/in/muhammedpatel007/)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny (i am, actually)**
 
 <br>
 
