@@ -3,7 +3,6 @@
 <h1 align="center">Hello World! <img align="center-center" height="50" width="50" src="https://github.com/muhammedp07/muhammedp07/assets/52874173/53ca7879-5b84-41a2-beb0-f1d73129bd02"> <br> I am Muhammed, AKA Mo </h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedp07&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedp07" /> </p>
 
 <img align="right" width="200" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
