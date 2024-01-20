@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **threat analysis, Penetration testing and Vulnerability assesment**
 
-- 🎭 I’m looking to collaborate on **anything (literally anything!)**
+- 🎭 I’m looking to collaborate on **anything, (literally anything!)**
 
 - 💬 Ask me about **cybersecurity secrets (shh, don't tell the hackers), why my code has trust issues, and how I'm basically the superhero Gotham never asked for. Ready to chat about hacking, coding, and turning coffee into code.**
 
