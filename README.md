@@ -28,6 +28,7 @@
 <h2 align="center"> 👋 Connect with me
 <br><p align="center">
 <a href="https://twitter.com/p41n_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p41n_0" height="50" width="30" /></a>
+
 <a href="https://linkedin.com/in/muhammedpatel007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedpatel007" height="30" width="40" /></a>
 <a href="https://discord.gg/pa1n_.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pa1n_.007" height="30" width="40" /></a>
 </p></h2>
